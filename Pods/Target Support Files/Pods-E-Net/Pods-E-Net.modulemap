@@ -1,0 +1,6 @@
+framework module Pods_E_Net {
+  umbrella header "Pods-E-Net-umbrella.h"
+
+  export *
+  module * { export * }
+}
